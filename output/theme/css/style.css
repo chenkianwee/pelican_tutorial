@@ -1,0 +1,14 @@
+html {
+    /* Increase from the default 16px to 18px or 20px */
+    font-size: 18px; 
+}
+
+body {
+    /* "Libertinus Serif" is the specific name from the CDN above */
+    font-family: "Libertinus Serif", serif !important;
+}
+
+/* Optional: Ensure Bootstrap headings use it too */
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: "Libertinus Serif", serif !important;
+}
