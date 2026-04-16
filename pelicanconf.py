@@ -1,6 +1,6 @@
 AUTHOR = '[Your Name]'
 SITENAME = 'Pelican Tutorial'
-SITEURL = ""
+SITEURL = "https://chenkianwee.github.io/pelican_tutorial"
 
 PATH = "content"
 
